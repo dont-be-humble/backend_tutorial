@@ -1,0 +1,46 @@
+2024-07-18 13:46:27: The server is up and listening
+2024-07-18 13:46:27: Server listening on port : 8080
+2024-07-18 13:46:30: Socket connection accepted
+2024-07-18 13:46:33: Message from client : hello
+2024-07-18 13:46:33: Client disconnected
+2024-07-18 13:47:41: The server is up and listening
+2024-07-18 13:47:41: Server listening on port : 8080
+2024-07-18 13:47:44: Socket connection accepted
+2024-07-18 13:47:46: Message from client : hello
+2024-07-18 13:47:49: Message from client : wowlo
+2024-07-18 13:47:50: Message from client : hiwlo
+2024-07-18 13:47:56: Message from client : cococoa
+2024-07-18 13:47:58: Message from client : hehecoa
+2024-07-18 13:48:04: Client disconnected
+2024-07-18 13:51:08: 
+===========================================================================================================
+
+2024-07-18 13:51:08: The server is up and listening
+2024-07-18 13:51:08: Server listening on port : 8080
+2024-07-18 13:51:44: Socket connection accepted
+2024-07-18 13:53:24: Message from client : hello
+2024-07-18 13:54:55: Binding falied hence terminating the code
+2024-07-18 13:55:48: Binding falied hence terminating the code
+2024-07-18 13:58:16: 
+===========================================================================================================
+
+2024-07-18 13:58:16: The server is up and listening
+2024-07-18 13:58:16: Server listening on port : 8080
+2024-07-18 13:58:23: Socket connection accepted
+2024-07-18 13:59:25: Message from client : hello
+2024-07-18 14:01:37: Binding falied hence terminating the code
+2024-07-18 14:01:50: Binding falied hence terminating the code
+2024-07-18 14:01:58: Binding falied hence terminating the code
+2024-07-18 14:02:20: 
+===========================================================================================================
+
+2024-07-18 14:02:20: The server is up and listening
+2024-07-18 14:02:20: Server listening on port : 8080
+2024-07-18 14:02:24: Socket connection accepted
+2024-07-18 14:02:26: Message from client : hello
+2024-07-18 14:02:29: Message from client : hi
+2024-07-18 14:02:31: Message from client : wow
+2024-07-18 14:02:34: Message from client : hehe
+2024-07-18 14:02:36: Message from client : guit
+2024-07-18 14:02:39: Message from client : quit
+2024-07-18 14:02:39: Client disconnected
